@@ -8,7 +8,7 @@ $clave = $_POST['usu_clave'];
 
 function Conectarse()
 {
-   if (!($link=mysql_connect("localhost", "root", "")))
+   if (!($link=mysql_connect("localhost", "root", "admin")))
    {
       echo "Error conectando a la base de datos.";
       exit();
@@ -28,7 +28,7 @@ try{
 if(mysql_result($q,0))
 {$result = mysql_result($q, 0);
     echo "LogIn Correcto";
-    header("");
+    header("location:perfil.php?usu_correo=$usuario");
 }else
     echo "LogIn Errado";
     header("");

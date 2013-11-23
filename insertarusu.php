@@ -1,6 +1,6 @@
 
 <?php
-mysql_connect("localhost", "root", "") or die(mysql_error());
+mysql_connect("localhost", "root", "admin") or die(mysql_error());
 mysql_select_db("dbsocial") or die(mysql_error());
 $query = "INSERT INTO usuario 
             VALUES (null, 
