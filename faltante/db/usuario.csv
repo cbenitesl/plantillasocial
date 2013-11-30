@@ -1,0 +1,31 @@
+usu_id,usu_nombre,usu_apellido,usu_sexo,usu_nacimiento,usu_correo,usu_clave
+1,Daniel,Rosas,mas,07/07/1992,dx@hotmail.com,12345
+2,Darwin,Rosas,mas,10/12/1990,darwin@hotmail.com,54321
+3,Enzo ,Ruiz,mas,10/02/1991,eruizp@hotmail.com,12435
+4,Christian,Benites,mas,16/12/1992,ebenites@hotmail.com,12345
+5,Sandro,Leon,mas,07/03/1992,kakin@hotmail.com,12345
+6,Juan Jose,Chavez Gomez,mas,23/05/1993,jchavez@gmail.com,12345
+7,Maria Fernenda,Valverde,fem,03/05/1993,Maryfer@gmail.com,12345
+8,Fernando,Mendoza,mas,10/12/1990,fmendoza@hotmail.com,12345
+9,Serquigo,Esponoza,mas,10/12/1990,SEzpinoza@hotmail.com,12345
+10,Brandom,Esponoza,mas,10/12/1990,Brannoza@hotmail.com,12345
+11,Barry,Bester,mas,10/12/1990,Barry@hotmail.com,12345
+12,Laura,Marin,fem,10/12/1990,Laura@hotmail.com,12345
+13,Maria Paz,Castillo,fem,10/12/1990,Mapazita@hotmail.com,12345
+14,Claudia,Castillo,fem,10/12/1990,Clau@hotmail.com,12345
+15,Claudia,Mendoza,fem,10/12/1990,ClauMen@hotmail.com,12345
+16,Micaela,Bolson,fem,10/12/1990,Mika@hotmail.com,12345
+17,Cesar,Martines,mas,10/12/1990,LoDelCesar@hotmail.com,12345
+18,Lili,Martines,fem,10/12/1990,Lili@hotmail.com,12345
+19,Tayler,Cazanova,mas,10/12/1990,Tayler@hotmail.com,12345
+20,Morgan,Smit,mas,10/12/1990,MorganSmit@hotmail.com,12345
+21,Victor,Herrera,mas,10/12/1990,Vherrera@hotmail.com,12345
+22,Carmen ,Peralta,fem,10/12/1990,Carmen@hotmail.com,12345
+23,Pedro,Fernandez,mas,10/12/1990,Pedrito@hotmail.com,12345
+24,Alex,Prieto,mas,10/12/1990,Alezhito@hotmail.com,12345
+25,Diana,Portillo,fem,10/12/1990,Dianita@hotmail.com,12345
+26,Javier,Gil,mas,10/12/1990,Javicho@hotmail.com,12345
+27,Daniela,Chang,fem,10/12/1990,Danielita@hotmail.com,12345
+28,Marta ,Arenas,fem,10/12/1990,Martita@hotmail.com,12345
+29,Maritza,Salas,fem,10/12/1990,Marit@hotmail.com,12345
+30,Hernan,Sambrano,mas,10/12/1990,Hernan@hotmail.com,12345
